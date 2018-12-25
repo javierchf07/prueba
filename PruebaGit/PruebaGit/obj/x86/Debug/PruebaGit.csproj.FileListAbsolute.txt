@@ -1,0 +1,7 @@
+D:\Git\prueba\PruebaGit\PruebaGit\obj\x86\Debug\PruebaGit.Form1.resources
+D:\Git\prueba\PruebaGit\PruebaGit\obj\x86\Debug\PruebaGit.Properties.Resources.resources
+D:\Git\prueba\PruebaGit\PruebaGit\obj\x86\Debug\PruebaGit.csproj.GenerateResource.Cache
+D:\Git\prueba\PruebaGit\PruebaGit\bin\Debug\PruebaGit.exe
+D:\Git\prueba\PruebaGit\PruebaGit\bin\Debug\PruebaGit.pdb
+D:\Git\prueba\PruebaGit\PruebaGit\obj\x86\Debug\PruebaGit.exe
+D:\Git\prueba\PruebaGit\PruebaGit\obj\x86\Debug\PruebaGit.pdb
